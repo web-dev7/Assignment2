@@ -2,7 +2,7 @@
 
 namespace MessageLibrary
 {
-    public class MessageClass
+    public class Demo
     {
         public void Message()
         {
